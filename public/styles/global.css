@@ -63,8 +63,8 @@ h5{
 p{
     line-height: 1.5em;
     padding: 0 20px;
-    /*margin: 30px 10px 60px 10px;*/
 }
+
 
 strong{
     font-weight: bold;
@@ -122,6 +122,10 @@ article img{
 
 .body{
     position: relative;
+}
+
+.margin01{
+    margin: 30px 10px 60px 10px;
 }
 
 .bugReport > button{

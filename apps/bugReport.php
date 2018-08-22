@@ -1,4 +1,6 @@
 <?php
-require('views/bugReport.phtml');
+if($page != "intro"){
+	require('views/bugReport.phtml');
+}
 
 ?>
